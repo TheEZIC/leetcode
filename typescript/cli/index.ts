@@ -67,7 +67,7 @@ describe("${problemNameAndId}", () => {
   test("case 3", () => {
   
   });
-})
+});
   `;
 
   createFileIfNotExists(filePath, data.trim(), {
